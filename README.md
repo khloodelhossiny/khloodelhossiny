@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khlood Elhossiny 👋</h1>
-<h3 align="center">🎓 Udacity Session Lead | 🧠 C++ Problem Solver | 🏆 ICPC Competitor | 🌍 Open Source Contributor</h3>
+<h3 align="center">🎓 Udacity Session Lead | 🧠 C++ Problem Solver | 🌍 Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Khlood_Elhossiny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
