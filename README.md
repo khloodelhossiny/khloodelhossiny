@@ -29,26 +29,22 @@ class KhloodElhossiny {
 }
 ```
 
-## 🔥 Highlights  
+## 🔥 Highlights
+[![ICPC ECPC 2022](https://img.shields.io/badge/%F0%9F%8F%86%20ICPC%20ECPC%202022-11th%20of%20238-blue?style=flat-square)](https://icpc.global)
+[![Arab Girls Contest](https://img.shields.io/badge/%F0%9F%A7%A0%20Arab%20Girls%20Contest%202020-Top%20200%20of%201500-purple?style=flat-square)](https://icpc.global)
+[![Udacity](https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB%20Udacity%20Session%20Lead-90%25%20Satisfaction-orange?style=flat-square)](https://www.udacity.com)
+[![Open Source](https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20Open%20Source-nlohmann%2Fjson-brightgreen?style=flat-square)](https://github.com/nlohmann/json)
 
-[![ICPC](https://img.shields.io/badge/🏆%20ICPC%20ECPC%202022-11th%20out%20of%20238%20teams-blue?style=flat-square)](https://icpc.global)  
-[![Arab Girls Contest](https://img.shields.io/badge/🧠%20Arab%20Girls%20Contest%202020-Top%20200%20of%201500-purple?style=flat-square)](https://icpc.global)  
-[![Udacity](https://img.shields.io/badge/👩‍🏫%20Udacity%20Session%20Lead-90%25%20Satisfaction%20%E2%80%93%20Python%20Teaching-orange?style=flat-square)](https://www.udacity.com)  
-[![Open Source](https://img.shields.io/badge/👩‍💻%20Open%20Source-Contributor%20at%20nlohmann%2Fjson-brightgreen?style=flat-square)](https://github.com/nlohmann/json)  
-
-👩‍🏫 **Mentor & Instructor:** 
+**👩‍🏫 Mentor & Instructor:**
 - 🐍 *MiniCodeLeader* (ages 6–18): Python, AI
 - 🧠 *MCIT EOI Coach* — C++ Problem-Solving
-- 🤝 *ICPC Assiut Community* (2019–2022)  
----
+- 🤝 *ICPC Assiut Community* (2019–2022)
 
 ## 🧩 Projects
-
-- Personal Finance Tracker – C# .NET Console App
-- Process Monitor – Linux Bash Script
-- Home Automation – C & FreeRTOS
-- 3D Endless Runner – C# Unity Game
-  
+- [Personal Finance Tracker]*(in progress)* – C# .NET Console App
+- [Process Monitor](https://github.com/khloodelhossiny/bash-processes-task_Khlood) – Linux Bash Script
+- [Home Automation](https://github.com/khloodelhossiny/Home_Automation_BY_FreeRTOS) – Embedded C & FreeRTOS
+- [3D Endless Runner] – C# Unity Game *(Private)*
 
 ## 🧰 Tech Toolbox
 <p align="center">
