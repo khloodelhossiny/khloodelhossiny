@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Khlood_Elhossiny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/@your_github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:khlood.elhossiny@gmail.com"><img src="https://img.shields.io/badge/khlood.elhossiny@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+201005372549"><img src="https://img.shields.io/badge/+20_100_537_2549-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
